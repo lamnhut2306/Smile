@@ -5,11 +5,11 @@ VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smile.PawnService.Api", "Smile.PawnService.Api\Smile.PawnService.Api.csproj", "{2E29E6F1-4074-48F8-AA98-48E025C77D16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smile.PawnService.Business", "Smile.PawnService.Business\Smile.PawnService.Business.csproj", "{B6236A7C-3067-4241-846B-58FB1A5F5293}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smile.PawnService.Business", "Smile.PawnService.Business\Smile.PawnService.Business.csproj", "{B6236A7C-3067-4241-846B-58FB1A5F5293}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smile.PawnService.DataAccessor", "Smile.PawnService.DataAccessor\Smile.PawnService.DataAccessor.csproj", "{07A63EA2-32A2-49C2-A62F-4FA4EF2E8A61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smile.PawnService.DataAccessor", "Smile.PawnService.DataAccessor\Smile.PawnService.DataAccessor.csproj", "{07A63EA2-32A2-49C2-A62F-4FA4EF2E8A61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smile.Contract", "Smile.Contract\Smile.Contract.csproj", "{CA9E6B5A-EEFB-4815-8BD7-E4EC19E20691}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smile.PawnService.Test", "Smile.PawnService.Test\Smile.PawnService.Test.csproj", "{74D29B7C-D77F-409D-BA95-ABFE4AEA95D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{07A63EA2-32A2-49C2-A62F-4FA4EF2E8A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07A63EA2-32A2-49C2-A62F-4FA4EF2E8A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07A63EA2-32A2-49C2-A62F-4FA4EF2E8A61}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CA9E6B5A-EEFB-4815-8BD7-E4EC19E20691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CA9E6B5A-EEFB-4815-8BD7-E4EC19E20691}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CA9E6B5A-EEFB-4815-8BD7-E4EC19E20691}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CA9E6B5A-EEFB-4815-8BD7-E4EC19E20691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74D29B7C-D77F-409D-BA95-ABFE4AEA95D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D29B7C-D77F-409D-BA95-ABFE4AEA95D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D29B7C-D77F-409D-BA95-ABFE4AEA95D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D29B7C-D77F-409D-BA95-ABFE4AEA95D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
